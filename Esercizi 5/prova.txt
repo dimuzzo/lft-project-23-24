@@ -1,0 +1,11 @@
+read(x,y);
+for (> x 0) do {
+    assign [- x 1 to x];
+    print(x)
+};
+for (> y 0) do {
+    assign [- y 1 to y];
+    print(y)
+};
+read(q,z);
+print(+(q,z))
