@@ -1,2 +1,0 @@
-for (dog:=0; dog<=printread) 
-assign dog+1 to dog 
