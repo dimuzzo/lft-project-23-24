@@ -1,0 +1,10 @@
+Progetto LFT - Anno Accademico 2023/2024
+
+Partecipanti:
+
+- Ali Apetrii Maher Andreas
+- Cavallotto Luca
+- Demo Alessandro
+
+Note: proggetto suddiviso in cartelle, nella cartella facoltativi
+ci sono gli esercizi facoltativi della sezione "Esercizi 1".
