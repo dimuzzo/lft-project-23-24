@@ -1,7 +1,6 @@
 # Laboratorio di Linguaggi Formali e Traduttori
-*Corso di Studi in Informatica - A.A. 2023/2024*
 
-### Progetto di laboratorio
+### Progetto 
 Il progetto di laboratorio consiste in una serie di esercitazioni assistite mirate allo sviluppo di un semplice traduttore.  
 
 Il corretto svolgimento di tali esercitazioni presuppone una buona conoscenza del linguaggio di programmazione Java e degli argomenti di teoria del corso Linguaggi Formali e Traduttori. 
