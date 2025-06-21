@@ -1,5 +1,9 @@
 # Laboratorio di Linguaggi Formali e Traduttori
 
+![GitHub last commit](https://img.shields.io/github/last-commit/dimuzzo/lft-project-23-24?style=flat-square&logo=github&label=Last%20Commit)
+![GitHub repo size](https://img.shields.io/github/repo-size/dimuzzo/lft-project-23-24?style=flat-square&logo=github&label=Repo%20Size)
+![GitHub stars](https://img.shields.io/github/stars/dimuzzo/lft-project-23-24?style=flat-square&logo=github&label=Stars)
+
 ### Progetto 
 Il progetto di laboratorio consiste in una serie di esercitazioni assistite mirate allo sviluppo di un semplice traduttore.  
 
@@ -66,3 +70,5 @@ Il linguaggio mnemonico utilizzato fa riferimento all’insieme delle istruzioni
 Il programma assembler che utilizzeremo si chiama Jasmin (distribuzione e manuale sono disponibili all’indirizzo http://jasmin.sourceforge.net/).
 
 ---
+
+> Created with passion by [dimuzzo](https://github.com/dimuzzo)
