@@ -71,4 +71,4 @@ Il programma assembler che utilizzeremo si chiama Jasmin (distribuzione e manual
 
 ---
 
-> Created with passion by [dimuzzo](https://github.com/dimuzzo)
+> Created with passion by [Alessandro Demo](https://github.com/dimuzzo), Andreas Maher Ali Apetrii, and [Luca Cavallotto](https://github.com/LucaCavallotto) 
